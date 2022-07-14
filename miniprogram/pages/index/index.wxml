@@ -1,0 +1,3 @@
+<view class="box">
+  <text >{{ms.data.ms.titlezh}}{{ms.data.ms.year}}</text> 
+</view>
